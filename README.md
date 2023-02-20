@@ -1,4 +1,4 @@
-## Hello! I'm luke.. I think? 👋
+## Hello! I'm Luke.. I think? 👋
 
 ## **GitHub Stats:** (Private repos included)
 <p>
