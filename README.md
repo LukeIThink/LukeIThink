@@ -14,7 +14,7 @@
 
 ## **Current Skillset:**
 
-![My Skills](https://skillicons.dev/icons?i=vscode,idea)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://github.com/LukeIThink#EasterEgg)
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,pug,lua,java)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,pug,lua,java)](https://github.com/LukeIThink#EasterEgg)
 
