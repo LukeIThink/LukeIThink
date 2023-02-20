@@ -14,5 +14,5 @@
 
 ## **Current Skillset:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://voidedsky.net)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java)
 
