@@ -1,6 +1,6 @@
-## Hello! I'm Luke.. I think? 👋
+**Hello! I'm Luke.. I think? 👋**
 
-## **GitHub Stats:** (Private repos included)
+## **GitHub Stats:**
 <p>
   <a href="#">
     <img align="left" height="144em" src="https://github-readme-stats.vercel.app/api?username=lukeithink&count_private=true&show_icons=true&theme=radical" alt="Lukeithink's GitHub Stats" />
